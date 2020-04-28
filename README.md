@@ -67,3 +67,14 @@ While technologies like Kubernetes are quite powerful, they're likely overkill f
 
 # Solution
 
+## Docker Setup
+
+### Docker Engine
+
+I already have Docker installed on my Ubuntu 16.04 system as part of the Web Dev Special Interest Group (SIG) of NJIT's ACM chapter, albeit I haven't used it in awhile.  So, I began by checking against docker.com to confirm that my install was up-to-date.  In the release notes, I see the following command recommended due to recent changes, so I used it:
+```bash
+sudo apt install docker-ce docker-ce-cli containerd.io
+```
+
+Apt tells me there's nothing to install, so all seems good.
+
