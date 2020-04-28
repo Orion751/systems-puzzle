@@ -78,3 +78,9 @@ sudo apt install docker-ce docker-ce-cli containerd.io
 
 Apt tells me there's nothing to install, so all seems good.
 
+### Docker Compose
+
+I noticed that docker-compose didn't come up from fish shell's autocomplete, suggesting that it was not installed.  `docker-compose --version` confirmed this to be true.
+
+While docker.com suggests installing Compose on Linux via curl, I instead use `sudo apt install docker-ce docker-ce-cli containerd.io` as suggested by my terminal so I can update it with the rest of my system.  If I run into any issues, it might be worth investigating this.
+
