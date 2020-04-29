@@ -6,6 +6,7 @@
 3. [Puzzle details](README.md#puzzle-details)
 4. [Instructions to submit your solution](README.md#instructions-to-submit-your-solution)
 5. [FAQ](README.md#faq)
+6. [Solution](README.md#solution)
 
 # Understanding the puzzle
 
